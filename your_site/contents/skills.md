@@ -1,3 +1,8 @@
+<head>
+  <!-- Other meta tags, links, or scripts -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+
 # Skills
 
 <p>This is where you can give a quick overview of the technologies and frameworks you know using our <a href="https://markbind.org/userGuide/components/imagesAndDiagrams.html#thumbnails" target="_blank">thumbnail feature</a> or our <a href="https://markbind.org/userGuide/formattingContents.html#icons" target="_blank">icons</a>.</p>
